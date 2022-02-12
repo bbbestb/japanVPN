@@ -5,7 +5,7 @@
 		<time class="ct-meta-element-date" datetime="2022-02-12T16:21:46+08:00" >更新：2022年02月12日</time></li></ul>	</header>
 </div>
 
-![](../files/jp1.jpg)
+![https://github.com/fqmama/tizi](https://github.com/fqmama/tizi/blob/main/files/jp1.jpg)
 		
 		
 		
