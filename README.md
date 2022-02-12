@@ -57,13 +57,6 @@
 <p>獲取日本IP地址，解除諸多網路服務的<span class="glossary-tooltip glossary-term-155" tabindex="0"><span class="glossary-link"><a href="https://www.youtube.com/watch?v=Vtw7U5oMsJk" target="_blank">地域限制</a></span><span class="hidden glossary-tooltip-content clearfix"><span class="glossary-tooltip-text">指網站或線上服務，因版權保護等原因，試圖只允許來自特定國家或地區的使用者訪問的限制，服務商通常根據使用者網路請求中的IP地址判斷使用者所在國家和地區，但這種判斷並不可靠，使用者通常較容易通過VPN或代理上網工具獲得非受限國或地區的IP地址，從而繞過限制。</span></span></span>，是日本VPN的最大用途。如果你是VPN新手，我們推薦您使用<a href="#expressvpn">ExpressVPN</a>，這是目前最可靠的日本VPN。</p>
 
 
-|  梯子推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
-|  ----  | ----  | ---- | ---- | ---- |
-| Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitfqmama&aff_click_id=tizi) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitfqmama&aff_sub2=tizi) | - |
-| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi) | [Express备用地址1](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi) | - |
-| Ivacy梯子 | ⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitfqmama&data2=tizi) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitfqmama/tizi) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=gitfqmama&data2=tizi) |
-| 熊猫梯子 | ⭐⭐⭐ | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) |
-
 
 <h2><span id="ri_ben_shi_xing_de_yu_xian_zhi_de_fu_wu">日本施行地域限制的服務</span></h2>
 
@@ -98,7 +91,7 @@
 
 
 <div class="wp-container-6205cd6f72486 wp-block-buttons is-content-justification-center">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi" rel="nofollow noopener" target="_blank">ExpressVPN官方網站</a></div>
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=japanVPN" rel="nofollow noopener" target="_blank">ExpressVPN官方網站</a></div>
 </div>
 
 
@@ -172,7 +165,7 @@
 
 
 <div class="wp-container-6205cd6f72ad1 wp-block-buttons is-content-justification-center">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi" rel="nofollow noopener" target="_blank">ExpressVPN官方網站</a></div>
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=japanVPN" rel="nofollow noopener" target="_blank">ExpressVPN官方網站</a></div>
 </div>
 
 
@@ -180,11 +173,11 @@
 <h3><span id="NordVPN">NordVPN</span></h3>
 
 
-![https://github.com/fqmama/tizi](../files/jp2.jpg)
+![https://github.com/fqmama/tizi](https://github.com/fqmama/tizi/blob/main/files/jp2.jpg)
 
 
 <div class="wp-container-6205cd6f730ec wp-block-buttons is-content-justification-center">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitfqmama&aff_sub2=tizi" rel="nofollow noopener" target="_blank">NordVPN官方網站</a></div>
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitfqmama&aff_sub2=japanVPN" rel="nofollow noopener" target="_blank">NordVPN官方網站</a></div>
 </div>
 
 
@@ -250,7 +243,7 @@
 
 
 <div class="wp-container-6205cd6f73d60 wp-block-buttons is-content-justification-center">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitfqmama&aff_sub2=tizi" rel="nofollow noopener" target="_blank">NordVPN官方網站</a></div>
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitfqmama&aff_sub2=japanVPN" rel="nofollow noopener" target="_blank">NordVPN官方網站</a></div>
 </div>
 
 
@@ -324,7 +317,7 @@
 
 
 <div class="wp-container-6205cd6f742b7 wp-block-buttons is-content-justification-center">
-<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitfqmama&aff_sub2=tizi" rel="nofollow noopener" target="_blank">NordVPN官方網站</a></div>
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link" href="http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitfqmama&aff_sub2=japanVPN" rel="nofollow noopener" target="_blank">NordVPN官方網站</a></div>
 </div>
 
 
@@ -434,10 +427,3 @@
 </div>
 </div>		</div>
 
-
-|  梯子推荐榜   | 推荐指数 | 官网地址  | 备用网址1 | 备用网址2 |
-|  ----  | ----  | ---- | ---- | ---- |
-| Nord梯子 | ⭐⭐⭐⭐⭐ | [Nord官网地址](https://go.nordlocker.net/aff_c?offer_id=15&aff_id=38201&url_id=6063&aff_sub=gitfqmama&aff_click_id=tizi) | [Nord备用地址1](http://get.affiliatescn.net/aff_c?offer_id=153&aff_id=38201&source=github&aff_sub=gitfqmama&aff_sub2=tizi) | - |
-| Express梯子 | ⭐⭐⭐⭐ | [Express官网地址](https://www.xvbelink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi) | [Express备用地址1](https://www.xvuslink.com/?a_fid=tizi_vpn&chan=gitfqmama&data1=tizi) | - |
-| Ivacy梯子 | ⭐⭐⭐⭐ | [Ivacy中文地址](https://www.ivacykodi.com/easter-deal-2020/?aff=91814&data1=gitfqmama&data2=tizi) | [Ivacy官网地址1](https://billing.ivacy.com/page/91814/6f38cc97/CHN/gitfqmama/tizi) | [Ivacy官网地址2](https://www.ivacy.com/best-vpn-deal-of-2022/?aff=91814&source=Aff&data1=gitfqmama&data2=tizi) |
-| 熊猫梯子 | ⭐⭐⭐ | [Panda官方网址](https://www.pankvyh.xyz/r/22216799) | [Panda备用地址1](https://www.pantoto.xyz/r/22216799) | [Panda备用地址2](https://pandavpnpro.com/r/22216799) |
