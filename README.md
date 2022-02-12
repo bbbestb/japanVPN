@@ -26,14 +26,8 @@
     <div class="lwptoc_itemWrap"><div class="lwptoc_item">    <a href="#ExpressVPN">
                 <span class="lwptoc_item_label">ExpressVPN</span>
     </a>
-    </div><div class="lwptoc_item">    <a href="#SurfShark">
-                <span class="lwptoc_item_label">SurfShark</span>
-    </a>
     </div><div class="lwptoc_item">    <a href="#NordVPN">
                 <span class="lwptoc_item_label">NordVPN</span>
-    </a>
-    </div><div class="lwptoc_item">    <a href="#VyprVPN">
-                <span class="lwptoc_item_label">VyprVPN</span>
     </a>
     </div><div class="lwptoc_item">    <a href="#PandaVPN">
                 <span class="lwptoc_item_label">PandaVPN</span>
